@@ -4,7 +4,7 @@
 
 This project focuses on predicting the likelihood of a car insurance claim being filed. Using a dataset of 10,302 car insurance policies, the primary goal was to build a classification model to accurately identify policies that are likely to result in a claim. The dataset contains 27 features, including policyholder demographics (age, income, education), vehicle information (age, value), and driving history (MVR points, past claims).
 
-The target variable, `CLAIM_FLAG`, is binary, with approximately **26.5%** of the policies in the training set resulting in a claim. The final model is an XGBoost Classifier, which was selected and tuned to achieve the best predictive performance.
+The target variable, `IS_CLAIM`, is binary, with approximately **26.5%** of the policies in the training set resulting in a claim. The final model is an XGBoost Classifier, which was selected and tuned to achieve the best predictive performance.
 
 ## Key Insights from Exploratory Data Analysis
 
