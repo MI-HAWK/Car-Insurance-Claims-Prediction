@@ -46,6 +46,6 @@ The tuned XGBoost Classifier demonstrated solid predictive performance on the un
 
 The confusion matrix on the test set provides a clear picture of the model's classification accuracy:
 
-![Confusion Matrix on Test Data](confusion_matrix_placeholder.png)
+![Confusion Matrix on Test Data](confusion_matrix.png)
 
 This project successfully developed a reliable model for predicting car insurance claims, with driving history and socioeconomic factors being the most significant predictors.
