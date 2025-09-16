@@ -36,7 +36,7 @@ The initial data exploration revealed several factors that correlate with the pr
 The tuned XGBoost Classifier demonstrated solid predictive performance on the unseen test data.
 
 - **Cross-Validation Score (Training):** The final model achieved a weighted F1-score of **0.784** during 10-fold cross-validation.
-- **Test Set Performance:** On the hold-out test set (20% of the data), the model achieved a weighted F1-score of **0.775**.
+- **Test Set Performance:** On the test set, the model achieved a weighted F1-score of **0.775**.
 
 The confusion matrix on the test set provides a clear picture of the model's classification accuracy:
 
